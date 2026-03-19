@@ -1,7 +1,6 @@
 # APS112 Team 019 Measures of Success Code (2026)
 
-Forked from matthias-k/DeepGaze
-Uses DeepGaze MSDB for visual saliency predictions
+Forked from matthias-k/DeepGaze. Uses DeepGaze MSDB for visual saliency predictions. \
 This repository contains the pytorch implementations of DeepGaze I, DeepGaze II, DeepGaze IIE, DeepGaze III, and DeepGaze MSDB
 
 ## Examples
