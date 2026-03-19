@@ -1,2 +1,6 @@
 *.pyc
 __pycache__
+venv
+build
+deepgaze_pytorch.egg-info
+dist
