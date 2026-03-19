@@ -1,0 +1,6 @@
+boltons
+numpy
+torch
+torchvision
+setuptools
+opencv-python
