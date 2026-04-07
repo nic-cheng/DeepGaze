@@ -1,0 +1,4 @@
+mean_visible_mass,0.5913227830
+visible_mass
+0.7497022838
+0.4329432822
